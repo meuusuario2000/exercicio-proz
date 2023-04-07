@@ -1,0 +1,20 @@
+print("por favor insira as informações abaixo:")
+rodas=input("insira a quantidade de rodas do veiculo:")
+
+peso=input("insira opeso em kg do veiculo:")
+ 
+ quant_pessoas=input("isira a quantidade de pessoas")
+
+ #logica ;
+ if(rodas=="2")
+   print("veiculo de categoria A!")
+   elif(rodas=="4")and
+   (quant_pessoas <="8")and (peso<="3500")
+     print("veiculo de categoria B")
+     elif(rodas>= "4");
+     and( peso >= "3500")
+     and(peso<="6000")
+       print("veiculocategoria C!")
+       elif
+       print(rodas>="4")and (quantidade de categoria D!)
+       else ("veiculo de categoria E!")
