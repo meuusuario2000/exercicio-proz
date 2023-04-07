@@ -1,0 +1,8 @@
+for i in ranger(1, 21): #está informando que ocontador vai do "0 "ao "21"
+andar=i #varaival andar recebe o valor de "1"
+if(andar==13):#assim que andar recebe o valor "13"deve ser pulado
+   continue 
+   print("andar:",andar)
+   else:#se não receber o valor 13
+   continue
+   print("andar:", andar)
